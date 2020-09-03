@@ -1,4 +1,4 @@
-#Dog Classifier
+# Dog Classifier
 
 * This repository contain a machine learning model that clasiify different breed of dog.
 * Using fastai
