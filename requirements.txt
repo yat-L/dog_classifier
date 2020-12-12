@@ -4,4 +4,4 @@ fastai
 voila
 ipywidgets
 fastbook
-nbconvert<6
+nbconvert<=6
