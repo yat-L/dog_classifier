@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app.py
+web: voila --port=$PORT --no-browser --enable_nbextensions=True deployment.ipynb
