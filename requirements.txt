@@ -5,3 +5,4 @@ voila
 ipywidgets
 fastbook
 nbconvert<=6
+graphviz
