@@ -5,3 +5,4 @@ streamlit
 ipywidgets
 fastbook==0.0.8
 graphviz
+fastcore==1.0.0
