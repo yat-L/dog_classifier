@@ -4,4 +4,5 @@
 * Using fastai
 * Can classify between golden retriever,shiba, bulldog, german shepherd and beagles.
 * dog_classi is the source, done in paperspace gradient
-* [Click here to Try it !!](https://dog-classifier-yat.herokuapp.com "Heroku")
+* [Click here to Try it !!](https://dog-classifier-yat.herokuapp.com "Heroku") (might take
+some time to load, click at your own risk.)
